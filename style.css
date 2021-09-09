@@ -1,0 +1,71 @@
+body{
+    background-image:url("gf.jpg");
+background-size: cover;
+color:#841DC5;
+background-position: fixed;
+background-position-x: center ;
+background-position-y: center ;
+width: 1200;
+height: 1250;
+background-repeat: no-repeat;
+}
+
+h1{
+    background-color: #57574C;
+    border-style: solid;
+    border-color: #841DC5;
+    box-shadow: 5px 5px 30px #841DC5;
+}
+
+h2{
+    background-color: #57574C;
+    border-style: solid;
+    border-color: #841DC5;
+    box-shadow: 5px 5px 30px #841DC5;
+    width: fit-content;
+}
+
+p{
+    background-color: #57574C;
+    border-style: solid;
+    border-color: #841DC5;
+    box-shadow: 5px 5px 30px #841DC5;
+    width: fit-content;
+}
+
+button{
+    background-color: #3B444D;
+    border-style: solid;
+    border-color: #D8A342;
+    box-shadow: 5px 5px 30px #D8A342;
+    width: fit-content;
+    color: #D8A342;
+}
+
+label{
+    background-color: #3B444D;
+    border-style: solid;
+    border-color: #D8A342;
+    box-shadow: 5px 5px 30px #D8A342;
+    width: fit-content;
+    color: #D8A342;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
